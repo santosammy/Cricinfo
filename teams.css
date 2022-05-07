@@ -1,0 +1,25 @@
+.mainbox{
+    width: 100%;
+
+   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(5,100px);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+.mainbox>div{
+  
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    display: flex;
+}
+.imgmain{
+    width: 35%;
+    height: 90px;
+
+}
+h3{
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+}

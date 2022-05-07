@@ -1,0 +1,54 @@
+body{
+    background-image: #eeeeee;
+}
+
+
+#teams1{
+    margin-top: 50px;
+    width: 100%;
+    
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    
+    }
+    #head1{
+
+        width: 65%;
+       
+display: flex;
+   justify-content: space-around;
+   cursor: pointer;
+      
+    }
+    #head1:hover{
+        
+        color: #55a6d1;
+    }
+
+    .headbox{
+        width: 65%;
+      
+      
+        display: flex;
+    }
+    .headbox>div{
+        width: 50%;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    cursor: pointer;
+      
+    }
+    p2{
+        font-size: 20px;
+    }
+    p{
+        line-height: 25px;
+        color: #55a6d1;
+    }
+    #boxlast{
+       
+     width: 100%;
+       margin-left: 66%;
+       margin-top: -1100px;
+    }
+    a{
+        text-decoration: none;
+    }

@@ -1,0 +1,72 @@
+.newbar{
+width: 100%;
+    display: flex;
+    justify-content:space-around;
+    color: black;
+    font-weight: 100;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+.container{
+    width: 69%;
+   
+  
+}
+.containerinside{
+
+   
+display: flex;
+margin: left;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+.containerinside>img{
+    margin-top: 10px;
+    width: 30%;
+    height: 150px;
+    display: flex;
+    margin-left: 5px;
+    border-radius: 30px;
+}
+
+.divinn{
+
+margin-left: 20px;
+
+width: 60%;
+}
+
+.containerinside>img:hover{
+transform: scale(1.3);
+}
+p2{
+   
+   margin-top: -20%;
+  
+   color: #53565e;
+   
+}
+.con2{
+    margin-top: -2910px;
+    margin-left: 70%;
+    width: 30%;
+ 
+ 
+}
+.con2>div{
+display: flex;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+.con2>div>img{
+    width: 40%;
+    height: 50Px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+
+.con2>div>img:hover{
+transform: scale(1.3);
+}
+a{
+    text-decoration: none;
+}
